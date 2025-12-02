@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+playwright
+sqlalchemy
+google-genai
+python-multipart
+aiofiles
+pydantic
+requests
